@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FibonacciApp</string>
+    <string name="edit_text_hint">Введите число Фибоначчи</string>
+    <string name="button_text">посчитать</string>
+
+    <string name="recursive">Метод рекурсии</string>
+    <string name="linear">Линейный метод</string>
+    <string name="bine">Метод Бине</string>
+
+    <string name="toast_number_error">Введите число больше или равное нулю</string>
+    <string name="toast_method_error">Выберите метод для подсчёта</string>
+
+
+
+</resources>
